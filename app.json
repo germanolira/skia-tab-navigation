@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test",
-    "slug": "test",
+    "name": "skia-tab-navigation",
+    "slug": "skia-tab-navigation",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
